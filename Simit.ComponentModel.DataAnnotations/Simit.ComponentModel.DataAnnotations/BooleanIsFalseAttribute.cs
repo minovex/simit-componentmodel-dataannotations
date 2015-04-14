@@ -1,4 +1,4 @@
-﻿namespace Minovex.ComponentModel.DataAnnotations
+﻿namespace Simit.ComponentModel.DataAnnotations
 {
     #region Using Directves
     using System;

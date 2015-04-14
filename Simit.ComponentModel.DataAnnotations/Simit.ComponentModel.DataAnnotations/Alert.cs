@@ -1,4 +1,4 @@
-﻿namespace Minovex.ComponentModel.DataAnnotations
+﻿namespace Simit.ComponentModel.DataAnnotations
 {
     public sealed class Alert
     {
