@@ -8,6 +8,6 @@
     <projectUrl>https://github.com/minovex/simit-componentmodel-dataannotations</projectUrl>
     <requireLicenseAcceptance>false</requireLicenseAcceptance>
     <description>Simit Model Data Annotations Library</description>
-    <tags>Simit Model Annotation</tags>
+    <tags>Simit Model Annotation C# MVC</tags>
   </metadata>
 </package>
